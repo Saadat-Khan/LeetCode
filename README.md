@@ -20,4 +20,8 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saadat-Khan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Saadat-Khan/LeetCode/tree/master/0027-remove-element) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Saadat-Khan/LeetCode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->

@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Saadat-Khan/LeetCode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Saadat-Khan/LeetCode/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Saadat-Khan/LeetCode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Saadat-Khan/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

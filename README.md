@@ -18,6 +18,7 @@
 | [0009-palindrome-number](https://github.com/Saadat-Khan/LeetCode/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Saadat-Khan/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Saadat-Khan/LeetCode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Saadat-Khan/LeetCode/tree/master/0070-climbing-stairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,4 +37,12 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Saadat-Khan/LeetCode/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Saadat-Khan/LeetCode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Saadat-Khan/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

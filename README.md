@@ -23,5 +23,10 @@
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Saadat-Khan/LeetCode/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Saadat-Khan/LeetCode/tree/master/0058-length-of-last-word) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Saadat-Khan/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

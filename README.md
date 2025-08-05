@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Saadat-Khan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Saadat-Khan/LeetCode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Saadat-Khan/LeetCode/tree/master/0066-plus-one) |
+| [3790-fruits-into-baskets-ii](https://github.com/Saadat-Khan/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Saadat-Khan/LeetCode/tree/master/0069-sqrtx) |
+| [3790-fruits-into-baskets-ii](https://github.com/Saadat-Khan/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -51,4 +53,16 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Saadat-Khan/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Saadat-Khan/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Saadat-Khan/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Saadat-Khan/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->

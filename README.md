@@ -17,7 +17,7 @@
 
 ## 📊 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/saadat_khan?theme=dark&font=Baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/saadat_khan?theme=dark&font=Baloo" />
 </p>
 
 ---
@@ -102,9 +102,6 @@ Feel free to open an **issue** or **pull request**.
 
 ## 📜 License
 This repository is licensed under the [MIT License](LICENSE).
-
----
-<p align="center">⭐ If you like this repository, don't forget to give it a star!</p>
 
 ---
 <p align="center">⭐ If you like this repository, don't forget to give it a star!</p>

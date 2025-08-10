@@ -1,5 +1,5 @@
 <!-- Banner -->
-<h1 align="center">🚀 LeetCode Solutions by Saadat Khan</h1>
+<h1 align="center">LeetCode Solutions by Saadat Khan</h1>
 
 <p align="center">
   <em>Sharpening my problem-solving skills one challenge at a time!</em>

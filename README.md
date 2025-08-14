@@ -87,16 +87,40 @@ Just browse the folders to view the solutions.
 
 ---
 
-## 🚀 Usage
-- Navigate to the problem folder  
-- View the `.py`, `.java`, or `.cpp` files for solutions  
-- Learn and compare different problem-solving approaches
+## 🚀 How to Use
+
+Since this repository only **showcases my progress**, you don’t need to install anything.  
+You can simply browse through the folders and explore the solutions.
+
+1. Navigate to the problem difficulty folder (Easy / Medium / Hard)
+2. Open the `.java` file for the solution
+3. Each solution includes:
+   - Problem link
+   - Approach explanation
+   - Java implementation
+
+---
+
+## 💡 Future Plans
+
+- Add **more optimized solutions** with multiple approaches
+- Include **time & space complexity analysis** in each problem
+- Solve **more hard-level** problems
+- Add **unit tests** for certain problems
 
 ---
 
 ## 🤝 Contributing
 This is a personal repository, but suggestions for better solutions are welcome!  
 Feel free to open an **issue** or **pull request**.
+
+---
+
+## 🙌 Credits
+
+- **Author:** [Saadat Khan](https://github.com/saadat-khan)
+- **Platform:** [LeetCode](https://leetcode.com/)
+- **Badges:** [Shields.io](https://shields.io/)
 
 ---
 

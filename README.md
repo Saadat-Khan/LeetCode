@@ -41,7 +41,7 @@ I started this repository to **learn how to code** and practice my skills throug
 - [About](#-about-this-repository)
 - [Topics](#-leetcode-topics)
 - [Installation](#-installation)
-- [Usage](#-usage)
+- [How to Use](#-how-to-Use)
 - [Contributing](#-contributing)
 - [License](#-license)
 

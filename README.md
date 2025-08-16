@@ -53,6 +53,20 @@ I started this repository to **learn how to code** and practice my skills throug
 <summary>📂 Click to Expand Topic List</summary>
 
 #
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Saadat-Khan/LeetCode/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Saadat-Khan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Saadat-Khan/LeetCode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Saadat-Khan/LeetCode/tree/master/0066-plus-one) |
+| [0792-binary-search](https://github.com/Saadat-Khan/LeetCode/tree/master/0792-binary-search) |
+| [3790-fruits-into-baskets-ii](https://github.com/Saadat-Khan/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Saadat-Khan/LeetCode/tree/master/0792-binary-search) |
 
 ### Hash Table
 | Problems |
@@ -122,20 +136,3 @@ This repository is licensed under the [MIT License](LICENSE).
 
 ---
 <p align="center">⭐ If you like this repository, don't forget to give it a star!</p>
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0001-two-sum](https://github.com/Saadat-Khan/LeetCode/tree/master/0001-two-sum) |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/Saadat-Khan/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
-| [0027-remove-element](https://github.com/Saadat-Khan/LeetCode/tree/master/0027-remove-element) |
-| [0066-plus-one](https://github.com/Saadat-Khan/LeetCode/tree/master/0066-plus-one) |
-| [0792-binary-search](https://github.com/Saadat-Khan/LeetCode/tree/master/0792-binary-search) |
-| [3790-fruits-into-baskets-ii](https://github.com/Saadat-Khan/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
-## Binary Search
-|  |
-| ------- |
-| [0792-binary-search](https://github.com/Saadat-Khan/LeetCode/tree/master/0792-binary-search) |
-<!---LeetCode Topics End-->
